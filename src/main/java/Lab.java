@@ -15,6 +15,7 @@ public class Lab {
      *     sum = sum + i;
      *     i = i + 1;
      *
+     * 
      * Meaning, so long as as a number i, which we've defined, is less that some number end,
      * let's add the number i to sum and increase it by 1.
      * So: counting from 0 to end = 6 (excluding 6), we add the numbers to a total count
